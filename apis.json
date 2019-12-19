@@ -1,0 +1,45 @@
+{
+    "name": "Open Data Commons",
+    "description": "<p>Open Data Commons exists to provide legal solutions for open data. In March 2008 it launched the first ever open data license: the Public Domain Dedication and License (PDDL). Open Data Commons is an Open Knowledge Foundation project run by its Advisory Council and like the Foundation is a not-for-profit effort working for the benefit of the general open knowledge community.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/open-data-commons.png",
+    "tags": [
+        "data",
+        "have api",
+        "licensing"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/open-data-commons\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Open Data Commons",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/open-data-commons.png",
+            "humanURL": "http:\/\/opendatacommons.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/open-data-commons-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/open-data-commons-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/opendatacommons"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/opendatacommons.org\/"
+        }
+    ]
+}
